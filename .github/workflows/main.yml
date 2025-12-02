@@ -11,9 +11,3 @@ jobs:
     steps:
      - name: Riddhi
        run: echo "Disable Workflow Video Devops"
-
-
-
-
-
-
